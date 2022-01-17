@@ -10,9 +10,9 @@ Voir une démo ici : [ar.bimaps.io](https://ar.bimaps.io/)
 
 Ce qu'il est requis pour commencer avec votre projet :
 
-- Une maquette dans un format standard (OBJ, IFC, etc)
+- Une maquette dans un format standard (OBJ, IFC, etc.)
 - Un navigateur web à jour
-- Un editeur de texte ou un editeur de code (Notepad, Visual Studio Code, etc)
+- Un editeur de texte ou un editeur de code (Notepad, Visual Studio Code, etc.)
 
 ### Installation
 
