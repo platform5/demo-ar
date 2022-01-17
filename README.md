@@ -27,9 +27,9 @@ Cloner ou télécharger les fichiers et démarrer le projet dans un navigateur
 
 <br><br>
 
-## Contributing
+## Contribuer
 
-N'hésitez pas de nous envoyer des questions / feedback pour améliorer le code ou contribuer à une modification.
+Envoyer-nous vos questions / feedback pour améliorer le code ou contribuer à une modification.
 
 ## Versions
 
